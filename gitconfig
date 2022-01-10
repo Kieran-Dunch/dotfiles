@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dunch.kieran@gmail.com
+	name = Kieran Dunch
